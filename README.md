@@ -6,20 +6,11 @@ Back End Developer
 
 Hey there! 🤓
 
-I am a highly motivated and results-driven professional with a proven track record of successfully delivering technology solutions that drive business growth and operational efficiency. 🌟 With extensive experience in software development and project management, I specialize in creating custom solutions tailored to meet specific client needs, ensuring the highest quality and performance standards. 💻🔧
+👨‍💻 With over 8 years of hands-on development experience, I've had the privilege of tackling projects of all sizes. From freelancing 🎯, where I built entire solutions from scratch to production, to contributing to one of LATAM's largest companies 🌎, enhancing their omnichannel logistics systems in an agile SCRUM environment 🛠️.
 
-Over the past few years, I have honed my skills in integrating cutting-edge AI models into various applications, leveraging my expertise in prompt engineering and embedding techniques to deliver cost-effective and highly satisfactory results. 🤖💡 By staying at the forefront of AI technology and best practices, I am committed to creating intelligent solutions that transform complex challenges into actionable opportunities. 🚀
+💡 My work spans from developing simple WordPress websites 🌐 to architecting complex microservices and AI-driven applications 🤖. I’m passionate about not just writing code but understanding how businesses operate 🏢 and delivering solutions that truly add value 📈.
 
-Whether it's building robust applications, designing intuitive user experiences, or optimizing workflows, I am passionate about using technology as a catalyst for innovation and positive change. 🌐✨ I thrive in collaborative environments where I can work alongside talented teams to deliver impactful solutions that exceed expectations.
-
-My key areas of expertise include:
-
-Custom Software Development: Designing and implementing tailored solutions that align with business objectives. 🛠️📈
-AI Integration: Applying advanced AI models, prompt engineering, and embedding techniques to create intelligent, cost-efficient applications. 🤖💡
-Project Management: Leading cross-functional teams to deliver projects on time and within budget, maintaining a strong focus on quality and client satisfaction. 📅🔍
-Technical Problem Solving: Analyzing and addressing complex technical challenges with creative, efficient solutions. 🔍🧩
-Continuous Learning: Committed to staying updated with the latest industry trends and technologies to ensure best practices are applied in every project. 📚🔍
-I am excited to connect with like-minded professionals and explore opportunities to contribute to innovative projects. Let's collaborate to drive meaningful change and success! 🤝🚀
+My journey has been fueled by a love for problem-solving and constant learning 📚, whether it’s mastering the latest tech stack or diving into the heart of a company’s operational needs. Let’s create something impactful together! 🚀
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [rasantos@protonmail.com](mailto:rasantos@protonmail.com)
