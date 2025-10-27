@@ -1,4 +1,4 @@
-# Rodrigo Santos — Backend & AI Engineer
+# Rodrigo Santos - Backend & AI Engineer
 
 Backend & AI Engineer with 8+ years of experience designing and scaling distributed systems, APIs, and AI-powered automation.
 **Node.js • TypeScript • LangChain • Elasticsearch • Redis • AWS • Azure**
@@ -61,10 +61,10 @@ AI-powered analytics for customer complaint categorization and sentiment insight
 
 ## Engineering Philosophy
 
-* **Measure before optimizing** — data-driven performance work
-* **Design for failure** — retries, backpressure, idempotency
-* **Build for observability** — logs, metrics, and tracing by default
-* **Optimize for ROI** — performance and efficiency in balance
+* **Measure before optimizing** - data-driven performance work
+* **Design for failure** - retries, backpressure, idempotency
+* **Build for observability** - logs, metrics, and tracing by default
+* **Optimize for ROI** - performance and efficiency in balance
 
 ---
 
