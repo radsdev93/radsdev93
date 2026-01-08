@@ -1,4 +1,4 @@
-# Rodrigo Santos — Backend & AI Software Engineer
+# Rodrigo Santos - Backend & AI Software Engineer
 
 **Node.js (TypeScript) • Microservices • Distributed Systems • RAG/LangChain • Redis • Elasticsearch • AWS • Azure • Docker/Kubernetes (K8s)**
 **Remote only • Open to full-time roles (exclusive dedication) • Timezone: UTC-3 •** 🌐 **[rasantos.dev](https://rasantos.dev)**
@@ -74,10 +74,10 @@ LLM-assisted analytics for complaint categorization and sentiment.
 
 ## Engineering Principles
 
-* **Measure before optimizing** — data-driven performance work.
-* **Design for failure** — retries, backpressure, idempotency.
-* **Build for observability** — logs, metrics, tracing by default.
-* **Optimize for ROI** — performance and efficiency in balance.
+* **Measure before optimizing** - data-driven performance work.
+* **Design for failure** - retries, backpressure, idempotency.
+* **Build for observability** - logs, metrics, tracing by default.
+* **Optimize for ROI** - performance and efficiency in balance.
 
 ---
 
